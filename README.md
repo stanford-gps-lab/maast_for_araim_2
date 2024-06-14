@@ -1,7 +1,7 @@
 # maast_for_araim_2
 Evaluates ARAIM performance
 
-To run MAAST for ARAIM version .0.5  add maast-master to the MATLAB path (also available in the Stanford GPS laboratory GitHub repository) and call main_maast_araim.m .
+To run MAAST for ARAIM version 2  add maast-master to the MATLAB path (also available in the Stanford GPS laboratory GitHub repository) and call main_maast_araim.m .
 
 All the simulation parameters are set in main_maast_araim (including ISD, receiver parameters).
 
