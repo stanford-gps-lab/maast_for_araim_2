@@ -8,7 +8,7 @@ All the simulation parameters are set in main_maast_araim (including ISD, receiv
 The results of the simulation are saved in outputs.mat.  For additional plots with different availability criteria use plot_araim_results.
 
 
-Copyright 2014 Stanford University
+Copyright 2024 Stanford University
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
