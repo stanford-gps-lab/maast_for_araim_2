@@ -1,0 +1,360 @@
+******** Week  1576 almanac for GAL-75 ********
+ID:                         75
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    0.436332
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -0.378213
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-76 ********
+ID:                         76
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    0.436332
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             0.407185
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-77 ********
+ID:                         77
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    0.436332
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             1.192583
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-78 ********
+ID:                         78
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    0.436332
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             1.977982
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-79 ********
+ID:                         79
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    0.436332
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             2.763380
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-80 ********
+ID:                         80
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    0.436332
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -2.734407
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-81 ********
+ID:                         81
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    0.436332
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -1.949009
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-82 ********
+ID:                         82
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    0.436332
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -1.163611
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-83 ********
+ID:                         83
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    2.530727
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -0.116413
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-84 ********
+ID:                         84
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    2.530727
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             0.668985
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-85 ********
+ID:                         85
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    2.530727
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             1.454383
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-86 ********
+ID:                         86
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    2.530727
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             2.239781
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-87 ********
+ID:                         87
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    2.530727
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             3.025179
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-88 ********
+ID:                         88
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    2.530727
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -2.472608
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-89 ********
+ID:                         89
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    2.530727
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -1.687210
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-90 ********
+ID:                         90
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    2.530727
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -0.901812
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-91 ********
+ID:                         91
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    4.625123
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             0.145386
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-92 ********
+ID:                         92
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    4.625123
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             0.930784
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-93 ********
+ID:                         93
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    4.625123
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             1.716182
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-94 ********
+ID:                         94
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    4.625123
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             2.501580
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-95 ********
+ID:                         95
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    4.625123
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -2.996207
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-96 ********
+ID:                         96
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    4.625123
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -2.210809
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-97 ********
+ID:                         97
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    4.625123
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -1.425410
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
+******** Week  1576 almanac for GAL-98 ********
+ID:                         98
+Health:                     000
+Eccentricity:               0.000100
+Time of Applicability(s):   15.000000
+Orbital Inclination(rad):   0.977384
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5440.569915
+Right Ascen at TOA(rad):    4.625123
+Argument of Perigee(rad):   0.000000
+Mean Anom(rad):             -0.640012
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1576
+
